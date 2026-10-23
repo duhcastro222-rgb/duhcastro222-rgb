@@ -29,10 +29,3 @@ AWS · Microsoft · Oracle Cloud · Fortinet
 ### 🎓 Formação
 
 Segurança Cibernética na FIAP (cursando)
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=duhcastro222-rgb&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhcastro222-rgb&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-[LinkedIn](https://linkedin.com/in/SEU-USUARIO)
