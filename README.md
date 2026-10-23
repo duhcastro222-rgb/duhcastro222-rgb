@@ -9,23 +9,7 @@ Trabalho com infraestrutura AWS, automação e segurança. Gosto de construir am
 ### 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,grafana" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,powershell,bash,python,typescript,git" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,react,vite,ansible" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-3595F9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semgrep-2DCDA7?style=for-the-badge&logo=semgrep&logoColor=white" />
-  <img src="https://img.shields.io/badge/MITRE_Caldera-C51A4A?style=for-the-badge&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,terraform,windows,grafana,mysql,postgres,mongodb" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/Redes-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
